@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>茜茜博客</title>
+  <title>march</title>
   <subtitle>前端笔记</subtitle>
   <link href="/atom.xml" rel="self"/>
   
@@ -9,7 +9,7 @@
   <id>https://mq1024.github.io/</id>
   
   <author>
-    <name>maqian</name>
+    <name>march</name>
     <email>954473719@qq.com</email>
   </author>
   
